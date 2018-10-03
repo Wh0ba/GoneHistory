@@ -1,0 +1,8 @@
+Package: com.wh0ba.gonehistory
+Name: gonehistory
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome single view application!
+Maintainer: Wh0ba
+Author: Wh0ba
+Section: Utilities
